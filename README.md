@@ -46,8 +46,8 @@ Paper identifiers should follow the format `lastnameYY` where `lastname` is the 
 ### Permission Forms
 
 Each author must sign a permission form. The forms should be:
-- Named according to the paper ID with `Permission` suffix (e.g., `reid25a-Permission.pdf`)
-- Placed in a separate directory called `v283permissions`
+- Named according to the paper ID with `Permission` suffix (e.g., `reid25aPermission.pdf`)
+- Placed in a separate directory called `vXpermissions` (e.g., `v283permissions`).
 
 ## Sectioned Proceedings (Optional)
 
